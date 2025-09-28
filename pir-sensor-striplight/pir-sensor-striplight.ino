@@ -15,7 +15,7 @@ void loop() {
     digitalWrite(ledPin, LOW);
     Serial.println("Motion detected!");
     delay(20000);               // Keep ON for 20 seconds
-    digitalWrite(ledPin, LOW);
+    digitalWrite(ledPin, HIGH);
   } else {
     digitalWrite(ledPin, HIGH);
     Serial.println("No motion");
