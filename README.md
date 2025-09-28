@@ -137,5 +137,4 @@ PIR-Sensor-&-Striplight/
 This project is licensed under the **MIT License** — free to use, modify, and distribute.
 See [LICENSE](LICENSE) for details.
 
-```
 
