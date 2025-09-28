@@ -4,6 +4,10 @@ An Arduino-based automation project that uses a **PIR motion sensor** and a **5V
 When motion is detected, the strip turns ON for **20 seconds** and then turns OFF if no motion is detected.  
 The timer resets if continuous motion is detected.
 
+![](assets/PIR-Sensor-and-StripLight-circuitview.png) 
+![](assets/556144386_2697274637270839_5630561231669185927_n.jpg) 
+![](assets/514279560_2697297663935203_6145449806842889839_n.jpg) 
+![](assets/PIR-Sensor-and-StripLight-schema.jpg)
 ---
 
 ## ✨ Features
