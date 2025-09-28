@@ -1,9 +1,3 @@
-Here’s a **full GitHub README** draft for your project with all the sections you requested.
-You can copy this as `README.md` in your repo:
-
----
-
-````markdown
 # PIR-Sensor-&-Striplight
 
 An Arduino-based automation project that uses a **PIR motion sensor** and a **5V LED strip light** to create a simple motion-activated lighting system.  
@@ -43,8 +37,6 @@ The timer resets if continuous motion is detected.
    ```bash
    git clone https://github.com/yourusername/PIR-Sensor-Striplight.git
    cd PIR-Sensor-Striplight
-````
-
 2. Open `PIR_StripLight.ino` in Arduino IDE
 3. Connect Arduino Uno via USB
 4. Upload the sketch
